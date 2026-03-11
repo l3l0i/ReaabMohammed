@@ -9,7 +9,7 @@
 
 ## 🛠 Skills
 
-- 🐍 Python  
+- 🐍 Python
 - 📈 Data Analysis & Visualization  
 - 🤖 Machine Learning  
 - 🧠 Computer Vision  
