@@ -10,11 +10,10 @@
 ## 🛠 Skills
 
 - 🐍 Python  
-- 📊 R  
 - 📈 Data Analysis & Visualization  
 - 🤖 Machine Learning  
 - 🧠 Computer Vision  
-- 🗄️ Databases  
+
 
 ---
 
